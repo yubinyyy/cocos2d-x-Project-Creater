@@ -1,0 +1,32 @@
+﻿生成启动时间为 2015/2/12 21:44:01。
+     1>项目“J:\Qt-Project\cocos2d-x Project Creater\cocos2d-x-Project-Creater\cocos2d-x Project Creater\cocos2d-x Project Creater.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\cocos2d-x Project Creater.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Moc'ing cocoscreater.h...
+         Uic'ing cocoscreater.ui...
+         Rcc'ing cocoscreater.qrc...
+     1>RCC : warning : No resources in 'J:\Qt-Project\cocos2d-x Project Creater\cocos2d-x-Project-Creater\cocos2d-x Project Creater\cocoscreater.qrc'.
+         
+       ClCompile:
+         D:\VS2012\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtCore /ID:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtGui /ID:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt cocoscreater.cpp GeneratedFiles\Debug\moc_cocoscreater.cpp main.cpp
+         cocoscreater.cpp
+         moc_cocoscreater.cpp
+         main.cpp
+         正在生成代码...
+         D:\VS2012\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /ID:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include /I.\GeneratedFiles\Debug /ID:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtCore /ID:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtGui /ID:\Qt\Qt5.3.2\5.3\msvc2012_opengl\include\QtWidgets /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_cocoscreater.cpp
+         qrc_cocoscreater.cpp
+       Link:
+         D:\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\Qt-Project\cocos2d-x Project Creater\cocos2d-x-Project-Creater\Win32\Debug\\cocos2d-x Project Creater.exe" /NOLOGO /LIBPATH:D:\Qt\Qt5.3.2\5.3\msvc2012_opengl\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"J:\Qt-Project\cocos2d-x Project Creater\cocos2d-x-Project-Creater\Win32\Debug\cocos2d-x Project Creater.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\Qt-Project\cocos2d-x Project Creater\cocos2d-x-Project-Creater\Win32\Debug\cocos2d-x Project Creater.lib" /MACHINE:X86 /SAFESEH Debug\cocoscreater.obj
+         Debug\moc_cocoscreater.obj
+         Debug\qrc_cocoscreater.obj
+         Debug\main.obj
+         cocos2d-x Project Creater.vcxproj -> J:\Qt-Project\cocos2d-x Project Creater\cocos2d-x-Project-Creater\Win32\Debug\cocos2d-x Project Creater.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\cocos2d-x Project Creater.unsuccessfulbuild”。
+         正在对“Debug\cocos2d-x Project Creater.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“J:\Qt-Project\cocos2d-x Project Creater\cocos2d-x-Project-Creater\cocos2d-x Project Creater\cocos2d-x Project Creater.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.49
